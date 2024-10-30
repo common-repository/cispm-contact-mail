@@ -1,0 +1,663 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Mail Cispm v2.2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-03-08 18:23+0000\n"
+"Last-Translator: admin <cispm.contact@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: cispm09_contact.php:68
+#: cispm09_contact_admin.php:18
+#: cispm09_contact_admin.php:427
+#@ cispm-contact-mail
+msgid "Formulaire de contact"
+msgstr "Formulaire de contact"
+
+#: cispm09_contact.php:73
+#: cispm09_contact_admin.php:19
+#: cispm09_contact_admin.php:454
+#@ cispm-contact-mail
+msgid "Nom"
+msgstr "Nom"
+
+#: cispm09_contact.php:78
+#: cispm09_contact_admin.php:22
+#: cispm09_contact_admin.php:487
+#@ cispm-contact-mail
+msgid "Prénom"
+msgstr "Prénom"
+
+#: cispm09_contact.php:83
+#: cispm09_contact_admin.php:25
+#: cispm09_contact_admin.php:503
+#@ cispm-contact-mail
+msgid "Mail"
+msgstr "Mail"
+
+#: cispm09_contact.php:88
+#: cispm09_contact_admin.php:531
+#@ cispm-contact-mail
+msgid "Site Web"
+msgstr "Site Web"
+
+#: cispm09_contact.php:93
+#: cispm09_contact_admin.php:547
+#@ cispm-contact-mail
+msgid "Objet"
+msgstr "Objet"
+
+#: cispm09_contact.php:98
+#: cispm09_contact_admin.php:30
+#: cispm09_contact_admin.php:557
+#@ cispm-contact-mail
+msgid "Message"
+msgstr "Message"
+
+#: cispm09_contact.php:103
+#@ cispm-contact-mail
+msgid "Recevoir une copie"
+msgstr "Recevoir une copie"
+
+#: cispm09_contact.php:108
+#: cispm09_contact_admin.php:590
+#@ cispm-contact-mail
+msgid "Envoyer le message"
+msgstr "Envoyer le message"
+
+#: cispm09_contact.php:189
+#: cispm09_contact.php:603
+#@ cispm-contact-mail
+msgid "Veuillez renseigner le(s) champs: "
+msgstr "Veuillez renseigner le(s) champs: "
+
+#: cispm09_contact.php:201
+#@ cispm-contact-mail
+msgid "Vous avez reçu un message de "
+msgstr "Vous avez reçu un message de "
+
+#: cispm09_contact.php:214
+#: cispm09_contact.php:216
+#@ cispm-contact-mail
+msgid "Vous avez re&ccedil;u un message de "
+msgstr "Vous avez re&ccedil;u un message de "
+
+#: cispm09_contact.php:230
+#@ cispm-contact-mail
+msgid "Son site internet est "
+msgstr "Son site internet est "
+
+#: cispm09_contact.php:234
+#@ cispm-contact-mail
+msgid "Votre site internet n'est pas valide (commence par http://)"
+msgstr "Votre site internet n'est pas valide (commence par http://)"
+
+#: cispm09_contact.php:265
+#@ cispm-contact-mail
+msgid "Votre adresse mail n'est pas valide (exemple: votre.email@email.fr)"
+msgstr "Votre adresse mail n'est pas valide (exemple: votre.email@email.fr)"
+
+#: cispm09_contact.php:275
+#@ cispm-contact-mail
+msgid "Veuillez remplir le champ captcha."
+msgstr "Veuillez remplir le champ captcha."
+
+#: cispm09_contact.php:278
+#@ cispm-contact-mail
+msgid "Le champ captcha ne correspond pas à l'image."
+msgstr "Le champ captcha ne correspond pas à l'image."
+
+#: cispm09_contact.php:286
+#@ cispm-contact-mail
+msgid "Vous devez cocher la case avant d'envoyer le mail."
+msgstr "Vous devez cocher la case avant d'envoyer le mail."
+
+#: cispm09_contact.php:294
+#@ cispm-contact-mail
+msgid "Ce n'est pas la bonne réponse."
+msgstr "Ce n'est pas la bonne réponse."
+
+#: cispm09_contact.php:297
+#@ cispm-contact-mail
+msgid "Veuillez répondre à la question posée."
+msgstr "Veuillez répondre à la question posée."
+
+#: cispm09_contact.php:317
+#@ cispm-contact-mail
+msgid "Vous avez demandé à recevoir une copie du mail envoyé depuis le blog "
+msgstr "Vous avez demandé à recevoir une copie du mail envoyé depuis le blog "
+
+#: cispm09_contact.php:336
+#@ cispm-contact-mail
+msgid "Votre message a correctement été envoyé."
+msgstr "Votre message a correctement été envoyé."
+
+#: cispm09_contact.php:433
+#@ cispm-contact-mail
+msgid "L'email entré n'est pas valide"
+msgstr "L'email entré n'est pas valide"
+
+#: cispm09_contact.php:447
+#@ cispm-contact-mail
+msgid "Champ non valide (http://)"
+msgstr "Champ non valide (http://)"
+
+#: cispm09_contact.php:523
+#@ cispm-contact-mail
+msgid "Veuillez cocher la case"
+msgstr "Veuillez cocher la case"
+
+#: cispm09_contact.php:541
+#@ cispm-contact-mail
+msgid "Ce n'est pas la bonne réponse"
+msgstr "Ce n'est pas la bonne réponse"
+
+#: cispm09_contact.php:552
+#@ cispm-contact-mail
+msgid "Veuillez répondre à la question posée"
+msgstr "Veuillez répondre à la question posée"
+
+#: cispm09_contact.php:575
+#@ cispm-contact-mail
+msgid "Veuillez remplir le champ captcha"
+msgstr "Veuillez remplir le champ captcha"
+
+#: cispm09_contact.php:897
+#@ cispm-contact-mail
+msgid ""
+"Afin de rendre le plugin compatible avec plus de thème, le code d'insertion du plugin dans cette page a changé.\n"
+"\t\t\t\t\t<br/>Veuillez modifier le code d'insertion du plugin de votre page par [cispm-contact-mail], \n"
+"\t\t\t\t\tveuillez nous excuser pour la gêne exceptionnelle occasionnée"
+msgstr ""
+"Afin de rendre le plugin compatible avec plus de thème, le code d'insertion du plugin dans cette page a changé.\n"
+"\\\t\\\t\\\t\\\t\\\t<br/>Veuillez modifier le code d'insertion du plugin de votre page par [cispm-contact-mail], \n"
+"\\\t\\\t\\\t\\\t\\\tveuillez nous excuser pour la gêne exceptionnelle occasionnée"
+
+#: cispm09_contact.php:939
+#@ cispm-contact-mail
+msgid "Cispm contact form"
+msgstr "Cispm contact form"
+
+#: cispm09_contact_admin.php:4
+#@ cispm-contact-mail
+msgid "Administration du formulaire de contact"
+msgstr "Administration du formulaire de contact"
+
+#: cispm09_contact_admin.php:26
+#@ cispm-contact-mail
+msgid "Site internet"
+msgstr "Site internet"
+
+#: cispm09_contact_admin.php:29
+#@ cispm-contact-mail
+msgid "Sujet"
+msgstr "Sujet"
+
+#: cispm09_contact_admin.php:31
+#@ cispm-contact-mail
+msgid "Recevoir une copie du mail"
+msgstr "Recevoir une copie du mail"
+
+#: cispm09_contact_admin.php:33
+#@ cispm-contact-mail
+msgid "Envoyer le mail"
+msgstr "Envoyer le mail"
+
+#: cispm09_contact_admin.php:50
+#: cispm09_contact_admin.php:182
+#@ cispm-contact-mail
+msgid "* Champ(s) Obligatoire(s)"
+msgstr "* Champ(s) Obligatoire(s)"
+
+#: cispm09_contact_admin.php:57
+#@ cispm-contact-mail
+msgid "Ce champ est obligatoire"
+msgstr "Ce champ est obligatoire"
+
+#: cispm09_contact_admin.php:65
+#@ cispm-contact-mail
+msgid "Thème par défaut sélectionné avec succès."
+msgstr "Thème par défaut sélectionné avec succès."
+
+#: cispm09_contact_admin.php:245
+#@ cispm-contact-mail
+msgid "Modifications apportées avec succès."
+msgstr "Modifications apportées avec succès."
+
+#: cispm09_contact_admin.php:369
+#@ cispm-contact-mail
+msgid "Paramétrage compte mail"
+msgstr "Paramétrage compte mail"
+
+#: cispm09_contact_admin.php:374
+#@ cispm-contact-mail
+msgid "Adresse mail réception"
+msgstr "Adresse mail réception"
+
+#: cispm09_contact_admin.php:376
+#@ cispm-contact-mail
+msgid "Utiliser le thème du formulaire par défaut"
+msgstr "Utiliser le thème du formulaire par défaut"
+
+#: cispm09_contact_admin.php:381
+#@ cispm-contact-mail
+msgid "Préfixe objet mail"
+msgstr "Préfixe objet mail"
+
+#: cispm09_contact_admin.php:382
+#@ cispm-contact-mail
+msgid "Ajoute au titre du mail, un champ personnalisé."
+msgstr "Ajoute au titre du mail, un champ personnalisé."
+
+#: cispm09_contact_admin.php:383
+#@ cispm-contact-mail
+msgid "Attention ceci effacera tous vos réglages !"
+msgstr "Attention ceci effacera tous vos réglages !"
+
+#: cispm09_contact_admin.php:388
+#@ cispm-contact-mail
+msgid "Pour installer le plugin sur une page WordPress, ajouter dans votre page le code html suivant: "
+msgstr "Pour installer le plugin sur une page WordPress, ajouter dans votre page le code html suivant: "
+
+#: cispm09_contact_admin.php:392
+#@ cispm-contact-mail
+msgid " (Choisir l'onglet HTML)."
+msgstr " (Choisir l'onglet HTML)."
+
+#: cispm09_contact_admin.php:401
+#@ cispm-contact-mail
+msgid "Modification libellé des champs"
+msgstr "Modification libellé des champs"
+
+#: cispm09_contact_admin.php:408
+#@ cispm-contact-mail
+msgid "Libellé"
+msgstr "Libellé"
+
+#: cispm09_contact_admin.php:411
+#@ cispm-contact-mail
+msgid "Valeur par défaut (si vide)"
+msgstr "Valeur par défaut (si vide)"
+
+#: cispm09_contact_admin.php:414
+#@ cispm-contact-mail
+msgid "Activer le champ"
+msgstr "Activer le champ"
+
+#: cispm09_contact_admin.php:417
+#@ cispm-contact-mail
+msgid "Rendre le champ obligatoire"
+msgstr "Rendre le champ obligatoire"
+
+#: cispm09_contact_admin.php:420
+#@ cispm-contact-mail
+msgid "Taille du champ de saisie"
+msgstr "Taille du champ de saisie"
+
+#: cispm09_contact_admin.php:425
+#@ cispm-contact-mail
+msgid "Titre du formulaire"
+msgstr "Titre du formulaire"
+
+#: cispm09_contact_admin.php:452
+#@ cispm-contact-mail
+msgid "Libellé nom"
+msgstr "Libellé nom"
+
+#: cispm09_contact_admin.php:456
+#: cispm09_contact_admin.php:460
+#: cispm09_contact_admin.php:489
+#: cispm09_contact_admin.php:493
+#: cispm09_contact_admin.php:533
+#: cispm09_contact_admin.php:537
+#: cispm09_contact_admin.php:579
+#@ cispm-contact-mail
+msgid "Oui"
+msgstr "Oui"
+
+#: cispm09_contact_admin.php:457
+#: cispm09_contact_admin.php:461
+#: cispm09_contact_admin.php:490
+#: cispm09_contact_admin.php:494
+#: cispm09_contact_admin.php:534
+#: cispm09_contact_admin.php:538
+#: cispm09_contact_admin.php:580
+#@ cispm-contact-mail
+msgid "Non"
+msgstr "Non"
+
+#: cispm09_contact_admin.php:485
+#@ cispm-contact-mail
+msgid "Libellé prénom"
+msgstr "Libellé prénom"
+
+#: cispm09_contact_admin.php:501
+#@ cispm-contact-mail
+msgid "Libellé mail"
+msgstr "Libellé mail"
+
+#: cispm09_contact_admin.php:504
+#: cispm09_contact_admin.php:505
+#: cispm09_contact_admin.php:548
+#: cispm09_contact_admin.php:549
+#: cispm09_contact_admin.php:558
+#: cispm09_contact_admin.php:559
+#@ cispm-contact-mail
+msgid "(Obligatoire)"
+msgstr "(Obligatoire)"
+
+#: cispm09_contact_admin.php:529
+#@ cispm-contact-mail
+msgid "Libellé Site Web"
+msgstr "Libellé Site Web"
+
+#: cispm09_contact_admin.php:545
+#@ cispm-contact-mail
+msgid "Libellé objet"
+msgstr "Libellé objet"
+
+#: cispm09_contact_admin.php:555
+#@ cispm-contact-mail
+msgid "Libellé message"
+msgstr "Libellé message"
+
+#: cispm09_contact_admin.php:575
+#@ cispm-contact-mail
+msgid "Libellé copie mail"
+msgstr "Libellé copie mail"
+
+#: cispm09_contact_admin.php:577
+#@ cispm-contact-mail
+msgid "Recevoir copie"
+msgstr "Recevoir copie"
+
+#: cispm09_contact_admin.php:588
+#@ cispm-contact-mail
+msgid "Libellé bouton envoie"
+msgstr "Libellé bouton envoie"
+
+#: cispm09_contact_admin.php:601
+#@ cispm-contact-mail
+msgid "Mise en forme du formulaire"
+msgstr "Mise en forme du formulaire"
+
+#: cispm09_contact_admin.php:604
+#@ cispm-contact-mail
+msgid "Couleur de fond en hexadécimal"
+msgstr "Couleur de fond en hexadécimal"
+
+#: cispm09_contact_admin.php:607
+#: cispm09_contact_admin.php:609
+#: cispm09_contact_admin.php:681
+#: cispm09_contact_admin.php:683
+#: cispm09_contact_admin.php:705
+#: cispm09_contact_admin.php:707
+#: cispm09_contact_admin.php:731
+#: cispm09_contact_admin.php:733
+#: cispm09_contact_admin.php:741
+#: cispm09_contact_admin.php:743
+#: cispm09_contact_admin.php:751
+#: cispm09_contact_admin.php:753
+#: cispm09_contact_admin.php:839
+#: cispm09_contact_admin.php:841
+#: cispm09_contact_admin.php:850
+#: cispm09_contact_admin.php:852
+#@ cispm-contact-mail
+msgid "Couleur sélectionnée: "
+msgstr "Couleur sélectionnée: "
+
+#: cispm09_contact_admin.php:607
+#: cispm09_contact_admin.php:681
+#: cispm09_contact_admin.php:705
+#: cispm09_contact_admin.php:731
+#: cispm09_contact_admin.php:741
+#: cispm09_contact_admin.php:751
+#: cispm09_contact_admin.php:839
+#: cispm09_contact_admin.php:850
+#@ cispm-contact-mail
+msgid "Aucune couleur"
+msgstr "Aucune couleur"
+
+#: cispm09_contact_admin.php:619
+#@ cispm-contact-mail
+msgid "Taille du formulaire (width)"
+msgstr "Taille du formulaire (width)"
+
+#: cispm09_contact_admin.php:620
+#@ cispm-contact-mail
+msgid "px (vide = taille automatique, minimun 300px)"
+msgstr "px (vide = taille automatique, minimun 300px)"
+
+#: cispm09_contact_admin.php:642
+#@ cispm-contact-mail
+msgid "Position du formulaire"
+msgstr "Position du formulaire"
+
+#: cispm09_contact_admin.php:644
+#@ cispm-contact-mail
+msgid "Gauche"
+msgstr "Gauche"
+
+#: cispm09_contact_admin.php:645
+#@ cispm-contact-mail
+msgid "Centre"
+msgstr "Centre"
+
+#: cispm09_contact_admin.php:646
+#@ cispm-contact-mail
+msgid "Droite"
+msgstr "Droite"
+
+#: cispm09_contact_admin.php:650
+#@ cispm-contact-mail
+msgid "Libellé Champ Obligatoire"
+msgstr "Libellé Champ Obligatoire"
+
+#: cispm09_contact_admin.php:651
+#@ cispm-contact-mail
+msgid "(vide = * Champ(s) Obligatoire(s))"
+msgstr "(vide = * Champ(s) Obligatoire(s))"
+
+#: cispm09_contact_admin.php:665
+#@ cispm-contact-mail
+msgid "Position Champ Obligatoire"
+msgstr "Position Champ Obligatoire"
+
+#: cispm09_contact_admin.php:667
+#@ cispm-contact-mail
+msgid "Dans formulaire"
+msgstr "Dans formulaire"
+
+#: cispm09_contact_admin.php:668
+#@ cispm-contact-mail
+msgid "Dessous le formulaire"
+msgstr "Dessous le formulaire"
+
+#: cispm09_contact_admin.php:675
+#@ cispm-contact-mail
+msgid "Mise en forme du titre"
+msgstr "Mise en forme du titre"
+
+#: cispm09_contact_admin.php:678
+#@ cispm-contact-mail
+msgid "Couleur du titre en hexadécimal"
+msgstr "Couleur du titre en hexadécimal"
+
+#: cispm09_contact_admin.php:688
+#@ cispm-contact-mail
+msgid "Taille du titre"
+msgstr "Taille du titre"
+
+#: cispm09_contact_admin.php:692
+#@ cispm-contact-mail
+msgid "Police du titre"
+msgstr "Police du titre"
+
+#: cispm09_contact_admin.php:699
+#@ cispm-contact-mail
+msgid "Mise en forme du texte"
+msgstr "Mise en forme du texte"
+
+#: cispm09_contact_admin.php:702
+#@ cispm-contact-mail
+msgid "Couleur du texte en hexadécimal"
+msgstr "Couleur du texte en hexadécimal"
+
+#: cispm09_contact_admin.php:712
+#@ cispm-contact-mail
+msgid "Taille du texte"
+msgstr "Taille du texte"
+
+#: cispm09_contact_admin.php:716
+#@ cispm-contact-mail
+msgid "Police du texte"
+msgstr "Police du texte"
+
+#: cispm09_contact_admin.php:725
+#@ cispm-contact-mail
+msgid "Mise en forme des messages d'erreur"
+msgstr "Mise en forme des messages d'erreur"
+
+#: cispm09_contact_admin.php:728
+#@ cispm-contact-mail
+msgid "Couleur du texte"
+msgstr "Couleur du texte"
+
+#: cispm09_contact_admin.php:738
+#@ cispm-contact-mail
+msgid "Couleur de fond des champs de saisie"
+msgstr "Couleur de fond des champs de saisie"
+
+#: cispm09_contact_admin.php:748
+#@ cispm-contact-mail
+msgid "Couleur de l'animation"
+msgstr "Couleur de l'animation"
+
+#: cispm09_contact_admin.php:773
+#@ cispm-contact-mail
+msgid "Activation message d'erreur"
+msgstr "Activation message d'erreur"
+
+#: cispm09_contact_admin.php:775
+#@ cispm-contact-mail
+msgid "Activer les messages d'erreurs au dessus du formulaire"
+msgstr "Activer les messages d'erreurs au dessus du formulaire"
+
+#: cispm09_contact_admin.php:776
+#@ cispm-contact-mail
+msgid "Activer les messages erreurs au dessous des champs"
+msgstr "Activer les messages erreurs au dessous des champs"
+
+#: cispm09_contact_admin.php:780
+#@ cispm-contact-mail
+msgid "Libellé messages au dessous des champs"
+msgstr "Libellé messages au dessous des champs"
+
+#: cispm09_contact_admin.php:781
+#@ cispm-contact-mail
+msgid "(vide = Ce champ est obligatoire)"
+msgstr "(vide = Ce champ est obligatoire)"
+
+#: cispm09_contact_admin.php:813
+#@ cispm-contact-mail
+msgid "Mise en forme captcha"
+msgstr "Mise en forme captcha"
+
+#: cispm09_contact_admin.php:816
+#@ cispm-contact-mail
+msgid " Aucun"
+msgstr " Aucun"
+
+#: cispm09_contact_admin.php:821
+#@ cispm-contact-mail
+msgid " Captcha"
+msgstr " Captcha"
+
+#: cispm09_contact_admin.php:824
+#@ cispm-contact-mail
+msgid "de"
+msgstr "de"
+
+#: cispm09_contact_admin.php:831
+#: cispm09_contact_admin.php:873
+#@ cispm-contact-mail
+msgid "Message à afficher:"
+msgstr "Message à afficher:"
+
+#: cispm09_contact_admin.php:836
+#@ cispm-contact-mail
+msgid "Couleur du texte dans l'image"
+msgstr "Couleur du texte dans l'image"
+
+#: cispm09_contact_admin.php:847
+#@ cispm-contact-mail
+msgid "Couleur de l'image de fond"
+msgstr "Couleur de l'image de fond"
+
+#: cispm09_contact_admin.php:857
+#@ cispm-contact-mail
+msgid " Question personnalisée"
+msgstr " Question personnalisée"
+
+#: cispm09_contact_admin.php:858
+#@ cispm-contact-mail
+msgid "Question: "
+msgstr "Question: "
+
+#: cispm09_contact_admin.php:863
+#@ cispm-contact-mail
+msgid " Réponse: "
+msgstr " Réponse: "
+
+#: cispm09_contact_admin.php:864
+#@ cispm-contact-mail
+msgid "Exemple: Quel est la capitale de France ? Combien font 1+1 ?"
+msgstr "Exemple: Quel est la capitale de France ? Combien font 1+1 ?"
+
+#: cispm09_contact_admin.php:868
+#@ cispm-contact-mail
+msgid " Taille champ réponse: "
+msgstr " Taille champ réponse: "
+
+#: cispm09_contact_admin.php:869
+#@ cispm-contact-mail
+msgid "( vide = 150px)"
+msgstr "( vide = 150px)"
+
+#: cispm09_contact_admin.php:872
+#@ cispm-contact-mail
+msgid " Case à cocher"
+msgstr " Case à cocher"
+
+#: cispm09_contact_admin.php:874
+#@ cispm-contact-mail
+msgid "Exemple: Cocher cette case pour envoyer le mail"
+msgstr "Exemple: Cocher cette case pour envoyer le mail"
+
+#: cispm09_contact_admin.php:881
+#@ cispm-contact-mail
+msgid "Appliquer les modifications"
+msgstr "Appliquer les modifications"
+
+#: cispm09_contact_admin.php:822
+#@ cispm-contact-mail
+msgid "Attention, il faut télécharger et activer le plugin de "
+msgstr "Attention, il faut télécharger et activer le plugin de "
+
+#: cispm09_contact_admin.php:826
+#@ cispm-contact-mail
+msgid " si vous voulez utiliser le module captcha."
+msgstr " si vous voulez utiliser le module captcha."
+
